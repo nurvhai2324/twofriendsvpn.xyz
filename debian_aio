@@ -12,8 +12,8 @@ HYSTERIA_TYPE='default';
 PORT_VLESS='442';
 API_LINK='https://twofriendsvpn.xyz/api/authentication';
 API_KEY='@@@NUR@@@';
-DOMAIN=zmdg.shibluvipvpn.xyz
-NS=6p0x.shibluvipvpn.xyz
+DOMAIN=uq02.shibluvipvpn.xyz
+NS=vzr6.shibluvipvpn.xyz
 timedatectl set-timezone Asia/Riyadh
 if [[ $(grep "nogroup" /etc/group) ]]; then
     cert_group="nogroup"
